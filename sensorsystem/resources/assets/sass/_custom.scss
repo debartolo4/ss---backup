@@ -1,0 +1,10 @@
+body{
+  //background: blue !important;
+  //background: src="main-background.png" alt="backg" !important;
+  //background-image: url(/main-background.png) !important;
+}
+
+.address{
+  display: flex; /* 2. display flex to the rescue */
+  flex-direction: row;
+}
